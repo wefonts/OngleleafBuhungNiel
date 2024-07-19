@@ -1,1 +1,16 @@
-# OngleleafBuhungNiel
+<pre>
+@font-face {
+    font-family: "OngleleafBuhungNiel";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungNiel/OngleleafBuhungNiel.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungNiel/OngleleafBuhungNiel.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungNiel/OngleleafBuhungNiel.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafBuhungNiel {
+    font-family: "OngleapGeumgangMaengsukhalmaeche";
+}
+  
+</pre>
